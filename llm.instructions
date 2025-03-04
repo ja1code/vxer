@@ -1,0 +1,19 @@
+- Create a typescript discord bot boiler plat
+
+- Now I need a bot that keeps listening to all messages he receives in different text channels, whenever someone sends a x.com video link or an twitter.com video link, the bot should send the link parsed to vxtwitter
+
+- the dev command is not working
+
+- Now, improve the code in a way that if the user message is only the twitter/x link, delete the user's message and send a new one with "@[username that sent the message] enviou:" with the parsed link
+
+- The deleted message replacement is not acctually pinging the user that sent the message
+
+- Now add some rules to support tiktok, altering to vxtiktok
+  @notes: I later discovered that tiktok already provides a link that works well with discord text channels. Ex: vm.tiktok.com/ZM8nY4V9/
+
+- Is there any way to do something similar with Inistagram?
+  @note: I wrote some stuff wrongly but the AI understood well everytime. When i asked for this, I didn't know if there was a service like vxtwitter that does this. Claude brought ddinstagram on its own.
+
+- rewrite the README better describing what this repo does
+
+- What would be a great commit message for the commit for the current state of this repo? It is the first commit
